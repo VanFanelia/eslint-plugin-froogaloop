@@ -1,0 +1,23 @@
+{
+  "name": "eslint-plugin-froogaloop",
+  "version": "0.0.1",
+  "description": "eslint plugin for froogaloop video player",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "froogaloop"
+  ],
+  "author": "Van",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "~2.6.0",
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "MIT",
+  "readme": "README.md",
+}
